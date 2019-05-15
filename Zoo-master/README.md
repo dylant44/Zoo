@@ -1,5 +1,5 @@
-# Zoo
-<h3>Welcome To the Zoo - Assessment Grade</h3>
+# main.Zoo
+<h3>Welcome To the main.Zoo - Assessment Grade</h3>
 <hr>
 <h3>Objective</h3>
 <b>Inheritance in Java</b>
@@ -14,16 +14,16 @@
 <h3>Instructions</h3>
 <p>
 1) Review all of the classes that you have been given<br>
-2) The Zoo class is your main class that all information is run through<br>
-3) Parrot, Orangutan, Alligator, Zebra are all unfinished classes<br>
+2) The main.Zoo class is your main class that all information is run through<br>
+3) animals.Parrot, animals.Orangutan, animals.Alligator, animals.Zebra are all unfinished classes<br>
 4) Review the commented text in the switch statement in the zoo class<br>
 5) When the user types look up it should then call all types of birds<br>
-6) Read through the Animal class. All animals eat. Return what all animals eat. <br>
+6) Read through the main.Animal class. All animals eat. Return what all animals eat. <br>
 7) Create a class for Ring_Tailed_Lemurs<br>
-8) Create an Bird class that is an extension of Animal, also make a class called Flying - review the Walking interface<br>
-9) Parrot - write what they parrots age is, noises they make and what they eat<br>
-10) Create a Reptile Class that is an extension of Animal, make a class called Carnivore - review the Walking interface<br>
+8) Create an Bird class that is an extension of main.Animal, also make a class called Flying - review the animal_qualities.Walking interface<br>
+9) animals.Parrot - write what they parrots age is, noises they make and what they eat<br>
+10) Create a Reptile Class that is an extension of main.Animal, make a class called Carnivore - review the animal_qualities.Walking interface<br>
 11) Create a Wallet class that stores how much money is in your wallet<br>
-12) Create a Gift_Shop class- Create 10 different items in the class that you can purchase. Money used should be
+12) Create a Gift_Shop class- Create 10 different items in the class that you can purchase. Shops used should be
 subtracted from your wallet<br>
 13) Create a Concessions class, create 5 food items that you would purchase at the zoo.<br></p>
